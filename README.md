@@ -2,6 +2,8 @@
 
 ![Build Status](https://github.com/nehalist/gatsby-theme-nehalem/workflows/Node%20CI/badge.svg)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19d98db1-aeaf-4dff-ac39-864f688dec82/deploy-status)](https://app.netlify.com/sites/saitoc/deploys)
+
 <p align="center">
     <img src="https://github.com/nehalist/gatsby-theme-nehalem/blob/master/theme/logo.png?raw=true">
 </p>
